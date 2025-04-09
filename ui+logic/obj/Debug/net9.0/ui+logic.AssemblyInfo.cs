@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ui+logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847554c048095fb0b7866c3c9e2e878a3cf02b05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcd316c548cfd47487a9ce0abb1da989b1c2e7fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ui+logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ui+logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
